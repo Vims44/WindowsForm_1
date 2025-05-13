@@ -1,0 +1,12 @@
+C:\Users\shlyapa\Desktop\исрпо\LR14\LR14\bin\Debug\LR14.exe.config
+C:\Users\shlyapa\Desktop\исрпо\LR14\LR14\bin\Debug\LR14.exe
+C:\Users\shlyapa\Desktop\исрпо\LR14\LR14\bin\Debug\LR14.pdb
+C:\Users\shlyapa\Desktop\исрпо\LR14\LR14\obj\Debug\LR14.csproj.AssemblyReference.cache
+C:\Users\shlyapa\Desktop\исрпо\LR14\LR14\obj\Debug\LR14.Form1.resources
+C:\Users\shlyapa\Desktop\исрпо\LR14\LR14\obj\Debug\LR14.Form2.resources
+C:\Users\shlyapa\Desktop\исрпо\LR14\LR14\obj\Debug\LR14.Form3.resources
+C:\Users\shlyapa\Desktop\исрпо\LR14\LR14\obj\Debug\LR14.Properties.Resources.resources
+C:\Users\shlyapa\Desktop\исрпо\LR14\LR14\obj\Debug\LR14.csproj.GenerateResource.cache
+C:\Users\shlyapa\Desktop\исрпо\LR14\LR14\obj\Debug\LR14.csproj.CoreCompileInputs.cache
+C:\Users\shlyapa\Desktop\исрпо\LR14\LR14\obj\Debug\LR14.exe
+C:\Users\shlyapa\Desktop\исрпо\LR14\LR14\obj\Debug\LR14.pdb
